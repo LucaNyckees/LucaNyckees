@@ -1,8 +1,11 @@
-Hi there, I’m @LucaNyckees.
+Hey there, I'm Luca. :basecampy:
 
-I am currently working on my Master's thesis (supervised by Prof. Kathryn Hess and Nicolas Berkouk) in the field of topological data analysis - we use topological optimization machine learning to tackle problems encountered in multi-persistent homology. I am interested in applications of topology to machine learning, data analysis and computational neurosciences. Along with my studies, I've been working on projects and internships within the Laboratory of Topology and Neuroscience at EPFL.
+I am a data scientist and data engineer. My professional experience spans over **4+ years**, having worked for the past 2 years as data scientist and machine learning operations engineer at Quanthome in Lausanne.
 
-More generally speaking, I really enjoy addressing real-world problems through various types of data analysis - with an emphasis on both data visualization (e.g. interactive visualization with web applications) and on the adapted geometric framework(s) (what mathematical tools are best fit to the task?). I am interested in creating strong and task-specific coding pipelines that combine the fundamentals of machine learning and data visualization.
+I am used to supervise juniors, lead **machine learning engineering** projects (building and deploying models), work on database management projects and have solid experience with **MLOps** and DevOps duties.
 
-- key-interests : statistical and topological data analysis, optimization machine learning, computational geometry
-- Python tools : pytorch, tensorflow, streamlit, networkx, pyvis, pandas, pyspark, numpy, plotly, matplotlib, NLTK
+I studied **mathematics at EPFL**, focusing on statistical and topological data analysis, and machine learning engineering. In parallel to my studies, I worked part-time for 2 years in the Laboratory for Topology and Neuroscience at EPFL on data science projects.
+
+:arrow_right: Check out my **portfolio** for some more information : https://lucanyckees.framer.website/.
+
+Don't hesitate to contact me via email at nyckees.luca@gmail.com to discuss opportunities.
