@@ -1,10 +1,8 @@
 Hey there, I'm Luca. :basecampy:
 
-I am a data scientist and data engineer. My professional experience spans over **4+ years**, having worked for the past 2 years as data scientist and machine learning operations engineer at Quanthome in Lausanne.
+I studied **mathematics at EPFL**, and during the master I transitioned from pure mathematics to AI/ML and data science research and applications. 
 
-I am used to supervise juniors, lead **machine learning engineering** projects (building and deploying models), work on database management projects and have solid experience with **MLOps** and DevOps duties.
-
-I studied **mathematics at EPFL**, focusing on statistical and topological data analysis, and machine learning engineering. In parallel to my studies, I worked part-time for 2 years in the Laboratory for Topology and Neuroscience at EPFL on data science projects.
+I have worked for **4+ years in the machine learning sector**, from making research around topological machine learning in the Laboratory of Neuroscience under Prof. Kathryn Hess to building end-to-end systems with a full machine learning code stack at **Expedia Group** in a highly skilled team, including a startup experience at Quanthome, where I led a team of 4, as data scientist and head of machine learning operations.
 
 :arrow_right: Check out my **portfolio** for some more information : https://lucanyckees.framer.website/.
 
